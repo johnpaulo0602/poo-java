@@ -1,5 +1,3 @@
-//Calcular area
-
 import java.util.Scanner;
 
 public class App {
@@ -17,6 +15,8 @@ public class App {
 
         area = base*altura/2;
 
-        System.out.println("SuA area é " + area + "\n");
+        System.out.println("Sua area é " + area + "\n");
+
+        entrada.close();
     }
 }

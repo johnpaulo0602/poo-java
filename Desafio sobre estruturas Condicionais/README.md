@@ -1,18 +1,36 @@
-## Getting Started
+# Calculadora de Salário com Aumento Real
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este é um simples projeto em Java que calcula o novo salário de um funcionário após um reajuste salarial, além de calcular o aumento real descontando a inflação.
 
-## Folder Structure
+## Funcionalidades
 
-The workspace contains two folders by default, where:
+- Solicita ao usuário que insira o salário atual.
+- Calcula o novo salário após o reajuste com base nas faixas de reajuste definidas.
+- Calcula o aumento real descontando a inflação.
+- Exibe os resultados formatados para o usuário.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Como Usar
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+1. Clone este repositório:
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+   ```bash
+   git clone https://github.com/johnpaulo0602/poo-java
+   ```
 
-## Dependency Management
+2. Compile o código:
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+   ```bash
+   javac Main.java
+   ```
+
+3. Execute o programa:
+
+   ```bash
+   java Main
+   ```
+
+4. Siga as instruções fornecidas para inserir o salário atual.
+
+## Referência
+
+O cálculo do aumento real descontando a inflação foi inspirado pelo vídeo [Aumento Real de Salário - Matemática Financeira #05](https://www.youtube.com/watch?v=vArEBrV3jEg) do canal *Matemática Rio*.
