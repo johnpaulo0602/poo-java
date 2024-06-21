@@ -7,6 +7,7 @@ Este repositório contém os projetos desenvolvidos durante a disciplina de Prog
 1. [Projeto 1: Calculadora de Área de Triângulo](/Calculadora%20de%20Área%20de%20Triângulo/)
 2. [Projeto 2: Calculadora de Salário com Aumento Real](/Desafio%20sobre%20estruturas%20Condicionais/)
 3. [Projeto 3: Autenticação e Soma](/Autenticação%20e%20Soma/)
+3. [Projeto 4: Sistema Financeiro e Pessoal (Swing)](/Sistema%20Financeiro/)
 
 
 ## Contato
